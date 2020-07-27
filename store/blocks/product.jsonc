@@ -27,7 +27,7 @@
       "preventVerticalStretch": false
     },
     "children": [
-      "vtex.store-components:product-name",
+      "product-name",
       "product-price",
       "buy-button"
     ]
