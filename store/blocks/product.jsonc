@@ -70,7 +70,8 @@
     "props": {
       "initialSelection": "empty",
       "displayMode": "select",
-      "showValueForVariation": "all"
+      "showValueForVariation": "all",
+      "showVariationsErrorMessage": true
     }
   }
 }
