@@ -52,7 +52,8 @@
     "vtex.store-link": "0.x",
     "vtex.product-gifts": "0.x",
     "vtex.product-price": "1.x",
-    "vtex.responsive-layout": "0.x"
+    "vtex.responsive-layout": "0.x",
+    "vtex.iframe": "0.x"
   },
   "$schema": "https://raw.githubusercontent.com/vtex/node-vtex-api/master/gen/manifest.schema"
 }
